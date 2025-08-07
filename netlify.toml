@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build && echo '<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>TempFile.Link</title><link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\"></head><body><div id=\"__nuxt\"></div><script type=\"module\" src=\"/_nuxt/entry.CUmDD1ED.js\"></script><link rel=\"stylesheet\" href=\"/_nuxt/entry.CUmDD1ED.css\"></body></html>' > .output/public/index.html"
+  command = "npm run build && echo '<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>TempFile.Link</title><link rel=\"stylesheet\" href=\"/_nuxt/entry.CUmDD1ED.css\"></head><body><div id=\"__nuxt\"></div><script type=\"module\" src=\"/_nuxt/DXUb182o.js\"></script></body></html>' > .output/public/index.html"
   publish = ".output/public"
 
 [[redirects]]
