@@ -2,6 +2,10 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
+  ssr: true,
+  nitro: {
+    preset: 'netlify',
+  },
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxt/eslint',
